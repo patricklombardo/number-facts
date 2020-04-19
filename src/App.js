@@ -2,7 +2,7 @@ import React from "react";
 import { Router, Switch, Route } from "react-router-dom";
 
 import logo from "./logo.svg";
-import "./App.css";
+import "./App.scss";
 import { NumberFactPage } from "./pages/NumberFactPage";
 import { EnterNumberPage } from "./pages/EnterNumberPage";
 
